@@ -1,0 +1,6 @@
+chroma_db/
+models/
+indexed_files.json
+__pycache__/
+*.pyc
+data/
